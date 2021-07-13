@@ -1,4 +1,4 @@
-## Hi there, I'm Khoshimov Shavkatbek
+## Hi, I'm Khoshimov Shavkatbek
 <hr/>
 
 ### I'm a Software Engineer | Python Backend Developer | CSE Student @ Sharda University.
