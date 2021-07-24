@@ -4,7 +4,7 @@
 ### I'm a Software Engineer | Python Backend Developer | CSE Student @ Sharda University.
 <em> Python, Django, DRF, Algorithms </em>
 
--  I’m currently learning <b>Python</b> (Django) and <b>Data Structures</b> & Algorithms
+-  I’m currently working <b>Python</b> (Django) and Learning <b>Data Structures</b> & Algorithms
 -  I like reading <b>books</b> and learning new <b>technologies</b>
 -  2021: Improving knowledge and getting experience in Python | Backend Development.
 
