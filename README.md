@@ -1,4 +1,4 @@
-## Hi, I'm Khoshimov Shavkatbek
+## <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> Hi, I'm Khoshimov Shavkatbek
 <hr/>
 
 ### I'm a Software Engineer | Python Backend Developer | CSE Student @ Sharda University.
