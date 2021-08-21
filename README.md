@@ -4,7 +4,7 @@
 
 -  I’m currently working <b>Python</b> (Django) and Learning <b>Data Structures</b> & Algorithms
 -  Python, Virtualenvs, Django, DRF, Postman, Algorithms, SQL (MySQL, PostgreSQL), Docker, Heroku, Linux.
--  FrontEnd development. (HTML, CSS, Bootstrap 4, JS)
+-  FrontEnd development. (HTML, CSS, Bootstrap, JS)
 -  Teamwork, Front-end, and Direct Interaction with Mobile Group.
 -  2021: Improving knowledge and getting experience in Python | Backend Development
 
