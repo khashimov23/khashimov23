@@ -1,7 +1,7 @@
 ## <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> Hi there, I'm Khoshimov Shavkatbek
 <hr/>
 
-### I'm a Software Engineer | Python Backend Developer | CSE Student @ Sharda University.
+### Software Engineer | Python Backend Developer | CSE Student @ Sharda University.
 <em> Python, Django, DRF, Algorithms </em>
 
 -  I’m currently working <b>Python</b> (Django) and Learning <b>Data Structures</b> & Algorithms
