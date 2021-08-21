@@ -5,8 +5,12 @@
 <em> Python, Django, DRF, Algorithms </em>
 
 -  I’m currently working <b>Python</b> (Django) and Learning <b>Data Structures</b> & Algorithms
--  I like reading <b>books</b> and learning new <b>technologies</b>
--  2021: Improving knowledge and getting experience in Python | Backend Development.
+-  Python, Virtualenvs, Django, DRF, Postman, Algorithms, SQL (MySQL, PostgreSQL), Docker, Heroku, Linux.
+-  FrontEnd development. (HTML, CSS, Bootstrap 4, JS)
+-  Teamwork, Front-end, and Direct Interaction with Mobile Group.
+-  2021: Improving knowledge and getting experience in Python | Backend Development
+
+I love reading <b>books</b> and learning new <b>technologies</b>
 
 ### Connect with me:
 
