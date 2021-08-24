@@ -36,11 +36,11 @@ I love reading <b>books</b> and learning new <b>technologies</b>
 
 ## Interesting Stats
 
-![Khoshimov's stats](https://github-readme-stats.vercel.app/api?username=khashimov23&show_icons=true)
-[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=khashimov23&theme=dracula&show_icons=true)](https://github.com/khashimov23)
-[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=khashimov23&theme=tokyonight&show_icons=true)](https://github.com/khashimov23)
+<!-- ![Khoshimov's stats](https://github-readme-stats.vercel.app/api?username=khashimov23&show_icons=true)
+[![Khoshimov's github stats](https://github-readme-stats.vercel.app/api?username=khashimov23&theme=dracula&show_icons=true)](https://github.com/khashimov23)
+[![Khoshimov's github stats](https://github-readme-stats.vercel.app/api?username=khashimov23&theme=tokyonight&show_icons=true)](https://github.com/khashimov23)
 
-
+ -->
 <img align="left" alt="Shavkatbek Khoshimov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khashimov23&theme=tokyonight&show_icons=true" />
 
 
