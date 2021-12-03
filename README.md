@@ -1,12 +1,14 @@
 ## <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> Hi there, I'm Khoshimov Shavkatbek
 
-### Software Engineer | Python Backend Developer | CSE Student @ Sharda University.
+### Software Engineer | iOS Mobile Developer | CSE Student @ Sharda University.
 
--  I’m currently working <b>Python</b> (Django) and Learning <b>Data Structures</b> & Algorithms
--  Python, Virtualenvs, Django, DRF, Postman, Algorithms, SQL (MySQL, PostgreSQL), Docker, Heroku, Linux.
--  FrontEnd development. (HTML, CSS, Bootstrap, JS)
--  Teamwork, Front-end, and Direct Interaction with Mobile Group.
--  2021: Improving knowledge and getting experience in Python | Backend Development
+-  I’m currently working <b>iOS</b> (Swift) and Learning <b>Data Structures</b> & Algorithms
+- Clean software architectures: MVC, MVP, MVVM
+- Good practices in my day-to-day (GitFlow, Continuous Integration, Testing)
+- Backend (Python, Django, RestAPI)
+- FrontEnd (HTML, CSS, Bootstrap, Figma).
+- Teamwork.
+- 2022: Improving knowledge and getting experience in iOS | Mobile Development
 
 I love reading <b>books</b> and learning new <b>technologies</b>
 
@@ -21,6 +23,7 @@ I love reading <b>books</b> and learning new <b>technologies</b>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="SWIFT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
