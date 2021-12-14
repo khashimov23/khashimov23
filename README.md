@@ -3,8 +3,8 @@
 ### Software Engineer | iOS Mobile Developer | CSE Student @ Sharda University.
 
 -  I’m currently working <b>iOS</b> (Swift) and Learning <b>Data Structures</b> & Algorithms
-- Clean software architectures: MVC, MVP, MVVM
-- Good practices in my day-to-day (GitFlow, Continuous Integration, Testing)
+- Clean software architectures: MVC, MVP.
+- Good practices in my day-to-day (GitFlow, Testing)
 - Backend (Python, Django, RestAPI)
 - FrontEnd (HTML, CSS, Bootstrap, Figma).
 - Teamwork.
