@@ -14,6 +14,7 @@
 
 I love reading <b>books</b> and learning new <b>technologies</b>
 
+-----
 ### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yako-ism/)](https://www.linkedin.cn/in/shavkatbek-khoshimov-9857361b2) 
