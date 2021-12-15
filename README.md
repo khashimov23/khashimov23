@@ -4,7 +4,7 @@
 #### ℹ️ About me: 
 ### Software Engineer | iOS Developer | 3rd year CS Student | Still learning new things.
 
-- A Self-taught programmer since 2018, in 2020 I started my first dev-job as a backend developer and mentor.
+- A Self-taught programmer since 2019, in 2021 I started my first dev-job as a backend developer and mentor.
 - I’m currently working <b>iOS</b> (Swift) and Learning <b>Data Structures</b> & <b>Algorithms</b>
 - Appling Clean software architectures (MVC, MVP)
 - Backend (Python, Django, RestAPI)
