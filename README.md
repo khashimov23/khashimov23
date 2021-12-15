@@ -1,14 +1,16 @@
-## <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> Hi there, I'm Khoshimov Shavkatbek
+## <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> Hi there, I'm Khoshimov Shavkatbek, iOS developer
 
-### Software Engineer | iOS Mobile Developer | CSE Student @ Sharda University.
+-----
+#### ℹ️ About me: 
+### Software Engineer | iOS Developer | 3rd year CS Student | Still learning new things.
 
--  I’m currently working <b>iOS</b> (Swift) and Learning <b>Data Structures</b> & Algorithms
-- Clean software architectures: MVC, MVP.
-- Good practices in my day-to-day (GitFlow, Testing)
+- A Self-taught programmer since 2018, in 2020 I started my first dev-job as a backend developer and mentor.
+- I’m currently working <b>iOS</b> (Swift) and Learning <b>Data Structures</b> & <b>Algorithms</b>
+- Appling Clean software architectures (MVC, MVP)
 - Backend (Python, Django, RestAPI)
 - FrontEnd (HTML, CSS, Bootstrap, Figma).
-- Teamwork.
-- 2022: Improving knowledge and getting experience in iOS | Mobile Development
+
+2022: Improving knowledge and getting experience in iOS | Mobile Development
 
 I love reading <b>books</b> and learning new <b>technologies</b>
 
@@ -22,44 +24,25 @@ I love reading <b>books</b> and learning new <b>technologies</b>
 
 ### Languages and Tools:
 
+<img align="left" alt="SWIFT" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
+<img align="left" alt="PYTHON" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="DJANGO" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="SWIFT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="DJANGO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
 
 
 
-## Interesting Stats
+## My Stats:
 
-<!-- ![Khoshimov's stats](https://github-readme-stats.vercel.app/api?username=khashimov23&show_icons=true)
-[![Khoshimov's github stats](https://github-readme-stats.vercel.app/api?username=khashimov23&theme=dracula&show_icons=true)](https://github.com/khashimov23)
-[![Khoshimov's github stats](https://github-readme-stats.vercel.app/api?username=khashimov23&theme=tokyonight&show_icons=true)](https://github.com/khashimov23)
 
- -->
 <img align="left" alt="Shavkatbek Khoshimov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khashimov23&theme=tokyonight&show_icons=true" />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khashimov23&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**khashimov23/khashimov23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
