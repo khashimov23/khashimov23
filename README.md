@@ -7,12 +7,12 @@
 - A Self-taught programmer since 2019, in 2021 I started my first dev-job as a backend developer and mentor.
 - I’m currently working <b>iOS</b> (Swift) and Learning <b>Data Structures</b> & <b>Algorithms</b>
 - Appling Clean software architectures (MVC, MVP)
-- Backend (Python, Django, RestAPI)
-- FrontEnd (HTML, CSS, Bootstrap, Figma).
-
-2022: Improving knowledge and getting experience in iOS | Mobile Development
-
-I love reading <b>books</b> and learning new <b>technologies</b>
+I enjoy developing, creating, writing in the Swift programming language. I work hard to find any solution to develop beautifully designed apps. 
+Got familiar with the following Skills and Technologies:  
+Swift | Xcode | Git/GitHub | UIKit | RxSwift | 
+CoreData | JSON parsing | Rest APIs | User Notifications | 
+User Defaults | Programmatic Constraints | MVC/MVP | Debugging | App Connect | Postman... 
+I love reading books and want to solve problems. Every day I learn new things and I'm not going to stop there.
 
 -----
 ### Connect with me:
