@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-✨ My name is **Khoshimov Shavkatbek**, I'm an iOS 📱 Developer  💻  from Uzbekistan  <br>
+✨ My name is **Khoshimov Shavkatbek**, iOS developer | Swift  
 
 - I’m currently working <b>iOS</b> (Swift) and Learning <b>Data Structures</b> & <b>Algorithms</b>
 - I enjoy developing, creating, writing in the Swift programming language. I work hard to find any solution to develop beautifully designed apps. 
