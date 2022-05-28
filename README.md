@@ -2,9 +2,17 @@
 
 ✨ My name is **Khoshimov Shavkatbek**, iOS developer | Swift  
 
-- I’m currently working <b>iOS</b> (Swift) and Learning <b>Data Structures</b> & <b>Algorithms</b>
-- I enjoy developing, creating, writing in the Swift programming language. I work hard to find any solution to develop beautifully designed apps. 
-- I love reading books and want to solve problems. Every day I learn new things and I'm not going to stop there.
+- I have long-suffering in developing apps.
+- I have already done:
+Implement new UI/UX solutions from scratch, develop custom UI and product animation,
+work with UIKit in deep, work on bug fixing and improving application performance,
+participate in code reviews. Strong knowledge of Swift and software design approaches,
+understanding of the full mobile development life cycle, knowledge of HTTP/REST API, Realm, multithreading-GCD.
+
+Skills and Technologies: 
+Swift | Xcode | Git/GitHub | UIKit | RxSwift | CoreData | JSON parsing | Rest APIs | User Notifications | User Defaults | UI by native const | MVC/MVP | Debugging | ...
+
+I love reading books and want to solve problems. Every day I learn new things and I'm not going to stop there.
 <br />
 
 
