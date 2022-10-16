@@ -8,7 +8,7 @@ Have the ability to create a highly readable and easily maintainable source code
 Striving to learn new technologies, constantly developing myself in a rapidly changing industry. 
 
 Got experience, working with these technologies.
-Swift, UIKit, GCD, Multithreading, Autolayout, Alamofire, Networking, Push Notifications, Firebase, CocoaPods, Realm, CoreData, iOS SDK, UI/UX, MVC/ MVP/ MVVM, Combine, Git, REST API, WebSockets, Debugging.
+Swift, UIKit/SwiftUI, GCD, Multithreading, Autolayout, Alamofire/Moya, Push Notifications, Firebase, CoreData, MVVM+C, Combine/RxSwift, Git, REST API, WebSockets, Debugging.
 
 ## 📫 How to reach me
 
