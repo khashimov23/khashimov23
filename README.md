@@ -2,13 +2,12 @@
 
 ✨ My name is **Khoshimov Shavkatbek**, iOS developer | Swift  
 
-Results-oriented and strong motivated Developer experienced in Software Engineering. 
-Attentive to details, with problem-solving skills. 
-Have the ability to create a highly readable and easily maintainable source code. 
-Striving to learn new technologies, constantly developing myself in a rapidly changing industry. 
+Passionate iOS Software Engineer, following SOLID principles, Clean Architecture guidelines, proper Dependency Injection, Attentive to details.
 
-Got experience, working with these technologies.
-Swift, UIKit/SwiftUI, GCD, Alamofire/Moya, Autolayout, Push/Local Notifications, Firebase, CoreData, MVVM+C, Combine/RxSwift, Git, REST API, WebSockets, Debugging.
+Actively learning TDD, SOLID, Clean Architecture and best practices for building iOS applications.
+
+Got experience.
+Swift, UIKit/SwiftUI, GCD, Alamofire/Moya, Autolayout, Push/Local Notifications, CoreData, MVVM+C, Combine/RxSwift, Git, WebSockets, Debugging.
 
 ## 📫 How to reach me
 
