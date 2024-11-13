@@ -28,7 +28,7 @@ In my spare time I do small pet projects that you can check out on my repositori
 
 
 ### Connect with me 📱:
-- [@BogdanZyk](https://telegram.me/khoshimov23)
+- [@Khoshimov23](https://telegram.me/khoshimov23)
 - khashimov023@gmail.com
 
 
