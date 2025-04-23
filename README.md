@@ -1,52 +1,27 @@
-## Hey👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=F7A73A&height=40&lines=Welcome+to+my+gitHub+page!)](https://git.io/typing-svg)
+# Hi there ~ <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
+## About me 🤔
+- I'm Shavkatbek Khoshimov, a human from Uzbekistan 🇺🇿.
+- I'm passionate about building software (iOS stuff in particular).
+- 😄 Pronouns: He/His.
 
-I am an iOS developer with 4 years of experience.
-
-Experience in writing applications for iOS, iPadOS, macOS, watchOS.
-
-Now mostly writing apps for iOS 14+
-
-In my spare time I do small pet projects that you can check out on my repositories page :)
-
-## My skills ⚒️:
-
-- SwiftUI, UIKit, Combine
-- MVVM, MVP, MVVM+Coordinator
-- SOLID, DRY, KISS
-- XCTests, Core Data, UserDefaults, UserNotifications
-- URLSession, Apollo GraphQL, RESTfull API, JSON
-- Foundation, AVFoundation, AVKit, MapKit, CoreLocation, 
-- Async/Await, GCD, PhotosUI, FileManager, 
-- FacebookCore, GoogleSDK, AuthenticationServices
-- XCode, SPM, CocoaPods, Fastlane
-- OneSignal, Revenuecat, PassKit
-- ARKit, SceneKit, RealityKit
-- Git, GitHub, GitLab
-- Figma, Notion
-
+## Hobbies ⚽️
+I enjoy many different activities in my free time:
+* ⚽️ Playing football
+* 🏋️‍♀️ Going to the gym
+* 📚 Reading and being up to date with the industry standards.
+* 🚶🏻 Walking
 
 ### Connect with me 📱:
 - [@Khoshimov23](https://telegram.me/khoshimov23)
 - khashimov023@gmail.com
 
+<details>
+<summary>⚡️ More about my coding life</summary>
+<br />
 
-### Programing Languages👾
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khashimov23&layout=compact&hide=css,html)
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Khoshimov's github stats](https://github-readme-stats.vercel.app/api?username=khashimov23&count_private=true&show_icons=true&theme=onedark)
 
-
-### TechStack 👾
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-
-
-### Tools👾
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+</details>
