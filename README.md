@@ -13,8 +13,8 @@ I enjoy many different activities in my free time:
 * 🚶🏻 Walking
 
 ### Connect with me 📱:
-- [@Khoshimov23](https://telegram.me/khoshimov23)
-- khashimov023@gmail.com
+- [telegram](https://telegram.me/khoshimov23)
+- [khashimov023@gmail.com](khashimov023@gmail.com)
 
 <details>
 <summary>⚡️ More about my coding life</summary>
