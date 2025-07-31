@@ -2,19 +2,19 @@
 
 ## About me 🤔
 - I'm Shavkatbek Khoshimov, a human from Uzbekistan 🇺🇿.
-- I'm passionate about building software (iOS stuff in particular).
-- 😄 Pronouns: He/His.
+- Passionate about how things work.
+- He/His.
 
 ## Hobbies ⚽️
 I enjoy many different activities in my free time:
 * ⚽️ Playing football
 * 🏋️‍♀️ Going to the gym
-* 📚 Reading and being up to date with the industry standards.
+* 📚 Reading and being up to date with the industry.
 * 🚶🏻 Walking
 
 ### Connect with me 📱:
-- [telegram](https://telegram.me/khoshimov23)
-- [khashimov023@gmail.com](khashimov023@gmail.com)
+- [Telegram](https://telegram.me/khoshimov23)
+- [e-mail](khashimov023@gmail.com)
 
 <details>
 <summary>⚡️ More about my coding life</summary>
